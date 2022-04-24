@@ -4,5 +4,27 @@ h1 {
     background-color: rgb(0, 225, 255);
     color: white;
     font-size: 30px;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1,
+p,
+.recipes {
+    font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.recipes {
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.cookies {
+    color: rgb(150, 75, 0);
+}
+
+.banana {
+    color: rgb(169, 114, 56);
+}
+
+.crepes {
+    color: #f89883;
 }
